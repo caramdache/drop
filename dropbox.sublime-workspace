@@ -1,0 +1,406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"NSCalendar",
+				"NSCalendar.currentCalendar"
+			],
+			[
+				"UITableView",
+				"UITableViewCell"
+			],
+			[
+				"NSDA",
+				"NSDate"
+			],
+			[
+				"cha",
+				"characteristic"
+			],
+			[
+				"centralManager",
+				"centralManager:didDisconnectPeripheral:error:"
+			],
+			[
+				"cancelP",
+				"cancelPeripheralConnection:"
+			],
+			[
+				"UUID",
+				"UUID"
+			],
+			[
+				"perip",
+				"peripheral:didUpdateNotificationStateForCharacteristic:error:"
+			],
+			[
+				"appen",
+				"appendData:"
+			],
+			[
+				"chara",
+				"characteristic"
+			],
+			[
+				"peri",
+				"peripheral:didDiscoverCharacteristicsForService:error:"
+			],
+			[
+				"UUIDW",
+				"CBUUID.UUIDWithString:"
+			],
+			[
+				"discover",
+				"discoverCharacteristics:forService:"
+			],
+			[
+				"serv",
+				"services"
+			],
+			[
+				"didDiscover",
+				"peripheral:didDiscoverServices:"
+			],
+			[
+				"didFailTo",
+				"centralManager:didFailToConnectPeripheral:error:"
+			],
+			[
+				"CBCen",
+				"CBCentralManagerStatePoweredOn (5)"
+			],
+			[
+				"initWithDe",
+				"initWithDelegate:queue:"
+			],
+			[
+				"date",
+				"dateFromComponents:"
+			],
+			[
+				"dataWithContentsOfUR",
+				"NSData.dataWithContentsOfURL:options:error:"
+			],
+			[
+				"reload",
+				"reloadData"
+			],
+			[
+				"view",
+				"viewControllers"
+			],
+			[
+				"navigation",
+				"navigationController"
+			],
+			[
+				"valueFo",
+				"valueForKey:"
+			],
+			[
+				"_",
+				"_to_json"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Rakefile",
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jj/Source/drop/dropbox-test",
+		"/Users/jj/Source/games/app/player_controller.rb",
+		"/Users/jj/Source/games/app/lib/UITableViewControllerForNSManagedObject.rb",
+		"/Users/jj/Source/games/app/lib/NSManagedObject_extensions.rb",
+		"/Users/jj/Source/games/app/lib/NSManagedObject_cells.rb",
+		"/Users/jj/Source/games/app/lib/UITableViewController_extensions.rb",
+		"/Users/jj/Source/lib/UITableViewTickCell.rb",
+		"/Users/jj/Source/lib/UITableViewFixedValuesTextFieldCell.rb",
+		"/Users/jj/Source/lib/UITableViewAutoCompleteTextFieldCell.rb",
+		"/Users/jj/Source/monie/app/HTAutocompleteManager.rb",
+		"/Users/jj/Source/lib/UITableViewAutoCompleteTextFieldCell2.rb",
+		"/Users/jj/Source/MLPAutoCompleteTextField/MLPAutoCompleteTextField/MLPAutoCompleteTextFieldDataSource.h",
+		"/Users/jj/Source/MLPAutoCompleteTextField/MLPAutoCompleteTextField/MLPAutoCompleteTextField.m",
+		"/Users/jj/Source/MLPAutoCompleteTextField/MLPAutoCompleteTextField/MLPAutoCompleteTextFieldDelegate.h",
+		"/Users/jj/Source/monie/vendor/HTAutocompleteManager/HTAutocompleteTextField.m",
+		"/Users/jj/Source/monie/vendor/HTAutocompleteManager/HTAutocompleteTextField.h",
+		"/Users/jj/Source/lib/UITableViewTextFieldCell.rb",
+		"/Users/jj/Source/monie/vendor/HTAutocompleteManager/HTAutocompleteManager.m",
+		"/Users/jj/Source/monie/vendor/HTAutocompleteManager/HTAutocompleteManager.h",
+		"/Users/jj/Source/monie/vendor/Podfile",
+		"/Users/jj/Source/lib/UITableViewFixedValueTextFieldCell.rb",
+		"/Users/jj/Source/lib/UITableViewDateFieldCell.rb",
+		"/Users/jj/Source/lib/UITableViewDeleteCell.rb",
+		"/Users/jj/Source/lib/UITableViewNumberFieldCell.rb",
+		"/Users/jj/Source/lib/UITableViewTextViewCell.rb",
+		"/Users/jj/Source/lib/UITableViewControllerForNSManagedObject.rb",
+		"/Users/jj/Source/lib/UITableViewInlineTextFieldCell.rb",
+		"/Users/jj/Source/monie/app/Time_extensions.rb",
+		"/Users/jj/Source/lib/UITableViewController_extensions.rb",
+		"/Users/jj/Source/lib/UINavigationController_extensions.rb",
+		"/Users/jj/Source/lib/UITableViewCell_extensions.rb",
+		"/Users/jj/Source/lib/NSManagedObject_extensions.rb",
+		"/Users/jj/Source/lib/NSManagedObject_json.rb",
+		"/Users/jj/Source/lib/NSEntityDescription_extensions.rb",
+		"/Users/jj/Source/lib/NSAttributeDescription_extensions.rb",
+		"/Users/jj/Source/lib/NSFetchRequest_extensions.rb",
+		"/Users/jj/Source/lib/NSManagedObject_cells.rb",
+		"/Users/jj/Source/lib/NSRelationshipDescription_extensions.rb",
+		"/Users/jj/Google Drive/C/update.rb",
+		"/Users/jj/Source/monie/app/transaction_controller.rb",
+		"/Users/jj/Source/monie/app/account_add_controller.rb",
+		"/Users/jj/Source/monie/app/user_payee.rb",
+		"/Users/jj/Source/monie/app/transaction_label.rb",
+		"/Users/jj/Source/monie/app/tag.rb",
+		"/Users/jj/Source/monie/app/account_tag.rb",
+		"/Users/jj/livret.rb",
+		"/Users/jj/Source/monie/app/app_delegate.rb",
+		"/Users/jj/Source/monie/app/store.rb",
+		"/Users/jj/Source/monie/app/joueur.rb",
+		"/Users/jj/Source/monie/app/partie.rb",
+		"/Users/jj/Source/cuisine/app/store.rb",
+		"/Users/jj/Source/monie/app/jeu_controller.rb",
+		"/Users/jj/Source/tarot/app/jeu_cell.rb",
+		"/Users/jj/Source/tarot/app/lib/UIView_extensions.rb",
+		"/Users/jj/Source/tarot/app/joueur.rb",
+		"/Users/jj/Source/lib/UITableView_extensions.rb",
+		"/Users/jj/Source/tarot/app/jeu.rb",
+		"/Users/jj/Source/tarot/app/store.rb",
+		"/Users/jj/Source/tarot/app/joueurs_controller.rb",
+		"/Users/jj/Source/lafemme/lafemme.sublime-project",
+		"/Users/jj/Source/lafemme/app/Time_extensions.rb",
+		"/Users/jj/Source/lafemme/app/NSCalendar_extensions.rb",
+		"/Users/jj/Source/lafemme/app/NSDateAtNoon.rb",
+		"/Users/jj/Source/lib/Time_extensions.rb",
+		"/Users/jj/Source/games/app/games_controller.rb",
+		"/Users/jj/Source/lib/NSArray_extensions.rb",
+		"/Users/jj/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jj/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jj/Source/lafemme/app/web_controller.rb",
+		"/Users/jj/Source/lafemme/app/about_controller.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/jj/Source/tarot",
+			"",
+			"/Users/jj/Source/lib",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"reload",
+			"tick",
+			"presentingView",
+			"responds",
+			"puts",
+			"sectionkey",
+			"sectionidenti",
+			"section",
+			"puts",
+			"sectionIdentifier",
+			"modificationDate",
+			"modificationdate",
+			"creationda",
+			"sectioniden",
+			"fetch",
+			"edittran",
+			"name",
+			"long",
+			"name",
+			"transactio",
+			"length",
+			"lenght",
+			"update_cells",
+			"addAcc",
+			"editAcc",
+			"edit",
+			"\n      ",
+			"Account",
+			"account",
+			"allobject",
+			"firstResponder",
+			"firstresponder",
+			"ManagedObjectClasses",
+			"class",
+			"Joueur",
+			"joueur",
+			"store",
+			"class",
+			"nslog",
+			"NSDateComponents",
+			"clear",
+			"\"",
+			"from_json",
+			"setDuratFrom",
+			"duration",
+			"durat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"shortDate",
+			"AccountZ",
+			"\\\"",
+			"setDurationFrom",
+			"durat",
+			"duration"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Rakefile",
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RubyMotionBuilder/RubyMotion.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
