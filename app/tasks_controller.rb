@@ -42,7 +42,7 @@ class TasksController < UITableViewController
   def store
     @store ||= DBDatastore.openDefaultStoreForAccount(self.account, error:nil).tap do |s|
       s.addObserver(self, block:lambda do
-        if self.store.status & (DBDatastoreIncoming | DBDatastoreOutgoing) then
+        if self.store.status & (DBDatastoreIncoming | DBDatastoreOutgoing) >= 1 then
           reload
         end
       end)
